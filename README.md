@@ -1,6 +1,6 @@
 # 🧪 AI-Driven Wound Monitoring System for Diabetic Mice
 
-This project is a desktop-based wound monitoring system developed to assist researchers in tracking the healing progress of diabetic wounds in lab mice. It uses computer vision and AI (YOLO and CNN) to detect, segment, classify, and calculate wound areas from images in a semi-automated workflow.
+This project is a desktop-based wound monitoring system developed to assist researchers in tracking the healing progress of diabetic wounds in lab mice. It uses computer vision and AI (YOLO and CNN) to detect, segment, classify, and calculate wound areas from images in a semi-automated workflow. You can download the model here https://drive.google.com/drive/folders/1IdHyZ-Ref9ccHWqn4H-Evb1qYjeteaBD?usp=drive_link 
 
 ---
 
