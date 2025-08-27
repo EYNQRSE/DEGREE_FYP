@@ -1,0 +1,6 @@
+numpy==2.3.1            # array maths & numeric ops
+pillow==11.3.0          # image loading & saving (PIL)
+opencv-python==4.11.0.86  # cv2 bindings used by logic.py
+tensorflow==2.19.0      # CNN model inference
+torch==2.7.1            # backend that Ultralytics YOLO depends on
+ultralytics==8.3.162    # YOLOv8/v9 object detection library
